@@ -1,5 +1,5 @@
-# cv
+# mySite
 
 My website built using html, css, and bootstrap.
 
-https://stephiesuzanne.github.io/cv/
+https://stephiesuzanne.github.io/mySite/
